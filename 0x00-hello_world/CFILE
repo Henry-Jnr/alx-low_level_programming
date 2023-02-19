@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int main (void);
-{
-printf ("Alx Software Engineering Program is Great!\n");
-return (0);
-}
