@@ -7,5 +7,6 @@
  */
 int main(void)
 {
+printf ("ALXSWE Program is Great!");
     return (0);
 }
