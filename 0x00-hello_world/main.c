@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-printf ("ALXSWE is Great!\n");
-    return (0);
+printf("ALXSWE is Great!\n");
+return (0);
 }
