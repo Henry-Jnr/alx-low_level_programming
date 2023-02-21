@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
@@ -7,6 +6,6 @@
  */
 int main(void)
 {
-printf ("ALXSWE Program is Great!");
+printf ("ALXSWE is Great!\n");
     return (0);
 }
