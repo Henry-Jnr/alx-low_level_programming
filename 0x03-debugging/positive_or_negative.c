@@ -9,10 +9,11 @@
  * main - Entry point
  *
  * Return:  Always 0 (Success)
+ * @i: Input number
  */
 int main(void)
 {
-	int i = 0;
+	int i;
 
 /*	srand(time(0));*/
 /*	i = rand() - RAND_MAX / 2;*/
