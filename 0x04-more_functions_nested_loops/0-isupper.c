@@ -7,18 +7,9 @@
  */
 int _isupper(int c)
 {
-	int x;
+	if ((c >= 'A') && (c <= 'Z'))
+		return (1);
+	else
+		return (0);
 
-	for (x = 'A'; x <= 'Z'; x++)
-		if (c == x)
-		{
-			return (1);
-		}
-		else
-		{
-			return (0);
-		}
-	printf("\n");
-
-	return (0);
 }
